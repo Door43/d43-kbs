@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kbs:home|Door43 (kbs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kbs|d43-kbs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kbs/archive/master.zip|d43-kbs.zip]]
+
+**Recent Changes**
+{{changes>ns = kbs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kbs|Ethnologue data]]
+
